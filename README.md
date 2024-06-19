@@ -22,7 +22,7 @@ You can install the necessary libraries using pip:
 ```bash
 pip install numpy matplotlib
 ```
-Code Explanation
+Code Explanation:-
 Initialization: We Set up parameters for the Weiner process such as the number of steps and the time interval.
 Random Walk Generation: Used a normal distribution to simulate the random walk.
 Plotting: We are using "matplotlib" to visualize the generated random walk.
